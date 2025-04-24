@@ -1,3 +1,1 @@
-This is test conflict
-
-This is the update from main branch
+print('This is the merge version of conflict.py')
