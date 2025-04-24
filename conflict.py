@@ -1,1 +1,1 @@
-This is test conflict
+This is test conflict from feature-conflict branch
